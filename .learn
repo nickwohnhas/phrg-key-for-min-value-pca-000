@@ -6,3 +6,5 @@ languages:
 type:
   - TODO
 resources: 1
+
+parent_template: git@github.com:learn-co-curriculum/key-for-min-value.git
